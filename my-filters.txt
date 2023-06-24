@@ -1,0 +1,134 @@
+[uBlock Origin]
+! Title: OMES-uBlock Origin Subscription-My filters
+! Homepage: https://github.com/OneManEmpireStudio/OMES-uBlock-Origin-Subscription
+
+
+
+! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~twitch.tv~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+! 首页注册底栏
+www.twitch.tv##.bsRjSc.Layout-sc-1xcs6mc-0
+
+
+
+! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~twitter.com~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+! 首页注册底栏
+twitter.com##.r-1upvrn0.r-l5o3uw.css-1dbjc4n
+
+
+
+! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~bitwarden.com~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+! 升级账户广告文字
+vault.bitwarden.com##.mb-4.border-success.card
+
+
+
+! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~bilibili.com~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+! 视频播放页播放器下方横幅广告栏
+www.bilibili.com##.left
+www.bilibili.com##.inside-wrp
+
+! 视频播放页活动文字
+www.bilibili.com##.loc-mc-box
+
+! 视频播放页播放器下方通知栏
+www.bilibili.com##.reply-notice
+
+! 视频播放页播放器下方发送栏
+www.bilibili.com##.bpx-player-sending-bar
+
+! 视频播放页播放器下方反馈栏
+www.bilibili.com##.video-toolbar-left
+www.bilibili.com##.video-toolbar-right
+www.bilibili.com##.video-toolbar-left-item.video-fav
+www.bilibili.com##.video-toolbar-left-item.video-like
+www.bilibili.com##.video-toolbar-left-item.video-coin
+
+! 视频播放页下载客户端广告文字
+www.bilibili.com##.download-client-trigger.download-entry
+
+
+! 用户页下载客户端广告文字
+space.bilibili.com##.download-client-trigger.download-entry
+
+! 用户页下载客户端广告文字
+space.bilibili.com##.van-popover__reference.download-client-trigger.link
+
+
+! 搜索页活动文字1
+search.bilibili.com##.loc-mc-box
+
+! 搜索页游戏板块
+search.bilibili.com##.activity-game-list-wrap > .row
+
+! 搜索页活动文字2
+search.bilibili.com##li.left-loc-entry.v-popover-wrap > div
+
+! 搜索页下载客户端广告文字
+search.bilibili.com##.download-client-trigger.download-entry
+
+
+! 直播页颜值领域板块
+live.bilibili.com##.yzly-ctnr
+
+! 直播页底部版权文字
+live.bilibili.com##.link-footer
+
+! 直播页推荐浮动栏
+live.bilibili.com##.follow-cntr
+
+! 直播页推荐直播板块
+live.bilibili.com##div:nth-of-type(6)
+
+! 直播页推荐分区板块
+live.bilibili.com##.recommend-area-ctnr
+
+! 直播页垃圾板块1
+live.bilibili.com##.t-center.grid-area-ctnr
+
+! 直播页垃圾板块2
+live.bilibili.com##.m-auto.area-detail-ctnr
+
+! 直播页右下角排行榜浮动窗模块
+live.bilibili.com##div.a-move-in-left.sidebar-btn:nth-of-type(3)
+
+! 直播页右下角推荐浮动窗模块
+live.bilibili.com##div.a-move-in-left.sidebar-btn:nth-of-type(4)
+
+! 直播页右下角公会入驻浮动窗模块
+live.bilibili.com##div.a-move-in-left.sidebar-btn:nth-of-type(5)
+
+! 直播页右下角公会中心浮动窗模块
+live.bilibili.com##div.a-move-in-left.sidebar-btn:nth-of-type(6)
+
+! 直播页右下角饭贩浮动窗模块
+live.bilibili.com##div.a-move-in-left.sidebar-btn:nth-of-type(7)
+
+
+! 直播页右上角饭贩文字
+live.bilibili.com##.text-label
+
+! 直播页背景
+||i0.hdslb.com/bfs/live/636d66a97d5f55099a9d8d6813558d6d4c95fd61.jpg@1920w_1080h.webp$image
+
+! 直播页礼物栏
+live.bilibili.com###gift-control-vm > div > div > .p-relative.b-box.f-clear.gift-control-panel
+live.bilibili.com##.bg-bright-filter.z-gift-control-section.border-box.p-relative.gift-control-section
+
+
+! 专栏页评论栏
+www.bilibili.com##.comment-m
+
+! 专栏页分享栏
+www.bilibili.com##.share-box
+
+! 专栏页侧边栏
+www.bilibili.com##.side-toolbar
+
+! 专栏页投诉或分享文字
+www.bilibili.com##.advice-item.hover-item
+
+! 专栏页推荐文章
+www.bilibili.com##.report-wrap-module.recommend-list
+
+! 专栏页下载客户端
+www.bilibili.com##.van-popover__reference.download-client-trigger.link
