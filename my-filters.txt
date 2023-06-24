@@ -103,12 +103,8 @@ live.bilibili.com##div.a-move-in-left.sidebar-btn:nth-of-type(6)
 ! 直播页右下角饭贩浮动窗模块
 live.bilibili.com##div.a-move-in-left.sidebar-btn:nth-of-type(7)
 
-
 ! 直播页右上角饭贩文字
 live.bilibili.com##.text-label
-
-! 直播页背景
-||i0.hdslb.com/bfs/live/636d66a97d5f55099a9d8d6813558d6d4c95fd61.jpg@1920w_1080h.webp$image
 
 ! 直播页礼物栏
 live.bilibili.com###gift-control-vm > div > div > .p-relative.b-box.f-clear.gift-control-panel
