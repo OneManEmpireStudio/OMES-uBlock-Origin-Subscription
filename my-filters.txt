@@ -11,6 +11,7 @@ www.twitch.tv##.bsRjSc.Layout-sc-1xcs6mc-0
 
 
 ! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~notion.so~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+! 使用桌面版打开弹出提示
 www.notion.so##.notion-default-overlay-container.notion-overlay-container > div > div > div > div > div > div > div
 
 
